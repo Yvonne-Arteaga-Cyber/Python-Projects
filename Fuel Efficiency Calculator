@@ -1,0 +1,18 @@
+# Fuel Efficiency Calculator
+
+This Python program calculates the fuel efficiency (MPG) of a multi-leg journey based on user input. It asks for odometer readings and gallons of fuel used for each leg of a trip, and calculates:
+
+- MPG for each leg  
+- Total MPG for the full trip
+
+It uses loops, conditionals, list storage, and formatted output. This was developed as a class project during my Python programming course.
+
+### Features:
+- Input validation  
+- While loop for multi-step input  
+- MPG math calculation  
+- Clean, readable formatted output  
+
+### Technologies Used:
+- Python (basic syntax, math, input/output)  
+- Text-based user interface  
